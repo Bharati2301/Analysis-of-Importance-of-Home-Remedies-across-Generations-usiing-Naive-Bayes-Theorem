@@ -1,0 +1,1 @@
+# Analysis-of-Importance-of-Home-Remedies-across-Generations-usiing-Naive-Bayes-Theorem
