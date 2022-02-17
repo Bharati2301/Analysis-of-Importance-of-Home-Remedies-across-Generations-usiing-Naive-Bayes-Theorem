@@ -9,8 +9,8 @@
 ## GRAPHS
 * A graphical depiction of the percentages of persons who use home remedies for common ailments is shown below.
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/71218441/154531657-adf4e8ae-ce23-48da-b0cd-abb6434a25d8.png" width="500" height="350"/>
-  <img src="https://user-images.githubusercontent.com/71218441/154531697-cf219000-bcaa-4d6b-9b55-384edcb87c80.png" width="500" height="350"/>
+  <img src="https://user-images.githubusercontent.com/71218441/154531657-adf4e8ae-ce23-48da-b0cd-abb6434a25d8.png" width="400" height="300"/>
+  <img src="https://user-images.githubusercontent.com/71218441/154531697-cf219000-bcaa-4d6b-9b55-384edcb87c80.png" width="400" height="300"/>
 </p>
 <p float="left">
 <img src="https://user-images.githubusercontent.com/71218441/154533940-e3d41fc6-644b-4aa0-aa86-8706be068b2e.png" width="500" height="350"/>
